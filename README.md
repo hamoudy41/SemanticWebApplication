@@ -156,7 +156,7 @@ git push origin feature/AmazingFeature
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [license-url] for more information.
+Distributed under the MIT License. See `LICENCE` for more information.
 
 
 
