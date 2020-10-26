@@ -68,7 +68,7 @@ Here are some of the criteria you can apply you fine tune your search for a perf
 
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are the main technologies and frameworks used for this project.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [ECMAScript](http://ecma-international.org)
@@ -78,48 +78,59 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+
+* None
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+This is a step by step guide on how to run this application.
+
+1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/chileluk/kd_final_project.git
 ```
-3. Install NPM packages
+2. Set up a triplestore. You may choose any triplestore but we recommend GraphDB since that is what we have been using during this project and hence we can offer you support in case of technical difficulties.
+
+3. Create a repository in GraphDB and call it `ent_ontology`.
+
+4. Make this repository as your default repository in GraphDB. After following these steps you do not need to configure repository URL since it will automatically be set as `http://localhost:7200/repositories/ent_ontology` and it will be accessesed by the application. In case if you run into a problem or if your triplestore have a different IP address than your local machine you will need to configure the `localEndpoint` into the exact urlof your repository. This should be done in the following step.
+
+    
+    * Open `index.js`
+    * àt line 1 where you find
+    ```JS
+    const localEndpoint = "http://localhost:7200/repositories/ent_ontology"
+    ```
+    replace `http://localhost:7200/repositories/ent_ontology` with your repository URL.
+    
+4. Upload the file `ent_ontology.ttl` into your repository you just created.
+  
+5. Navigate to the root folder of the project.
+  
+6. Run the following command in the terminal
 ```sh
-npm install
+start index.html
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+    
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/chileluk/kd_final_project/issues) for a list of proposed features (and known issues).
 
 
 
@@ -146,9 +157,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Hamoud Khamis - [h.o.khamis@student.vu.nl]
+Project Link: [https://github.com/chileluk/kd_final_project/issues]
 
 
 
