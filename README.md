@@ -160,8 +160,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hamoud Khamis - [Hamoud Khamis](mailto:h.o.khamis@student.vu.nl)
-Project Link: [Repository](https://github.com/chileluk/kd_final_project/issues)
+[Hamoud Khamis](mailto:h.o.khamis@student.vu.nl)
+[Chileshe]
+[Denise]
+[Gabriela]
+
+[Repository](https://github.com/chileluk/kd_final_project)
 
 
 
