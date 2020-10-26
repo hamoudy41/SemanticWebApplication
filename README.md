@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   
-  <h3 align="center">Entertainment Finder</h3>
+  <h1 align="center">Entertainment Finder</h1>
 
   <p align="center">
     A manual on how to run the Entertainment Finder Web Application.
