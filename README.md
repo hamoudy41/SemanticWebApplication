@@ -4,7 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -138,11 +138,17 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Create your Feature Branch
-	`git checkout -b feature/AmazingFeature`
-3. Commit your Changes 
-	`git commit -m 'Add some AmazingFeature'`
-4. Push to the Branch 
-	`git push origin feature/AmazingFeature`
+```sh
+git checkout -b feature/AmazingFeature
+```
+3. Commit your Changes
+```sh
+git commit -m 'Add some AmazingFeature'
+```
+4. Push to the Branch
+```sh
+git push origin feature/AmazingFeature
+```
 5. Open a Pull Request
 
 
@@ -171,14 +177,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [MIT Licence](https://choosealicense.com/licenses/mit/)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [rangeRover](https://github.com/styopdev/rangeRover)
 
 
 
