@@ -187,12 +187,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-4-green?logo=appveyor&style=for-the-badge
 [contributors-url]: https://github.com/chileluk/kd_final_project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/badge/Forks-0-green?logo=appveyor&style=for-the-badge
 [forks-url]: https://github.com/chileluk/kd_final_project/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/badge/Stargazers-4-green?logo=appveyor&style=for-the-badge
 [stars-url]: https://github.com/chileluk/kd_final_project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/badge/Issues-0-green?logo=appveyor&style=for-the-badge
 [issues-url]: https://github.com/chileluk/kd_final_project/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/Licence-MIT--Licence-green?logo=appveyor&style=for-the-badge
 [license-url]: https://github.com/chileluk/kd_final_project/blob/master/LICENSE.txt
 [product-screenshot]: /screenshot.png
