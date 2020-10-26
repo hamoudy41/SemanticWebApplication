@@ -4,7 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-?style=for-the-badge&logo=appveyor
+
 
 
 
@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://github.com/chileluk/kd_final_project.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/badge/Contributors-4-green?logo=appveyor&style=for-the-badge
 [contributors-url]: https://github.com/chileluk/kd_final_project/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/chileluk/kd_final_project/network/members
