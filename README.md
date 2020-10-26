@@ -157,8 +157,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hamoud Khamis - [h.o.khamis@student.vu.nl]
-Project Link: [https://github.com/chileluk/kd_final_project/issues]
+Hamoud Khamis - [Hamoud Khamis](mailto:h.o.khamis@student.vu.nl)
+Project Link: [Repository](https://github.com/chileluk/kd_final_project/issues)
 
 
 
@@ -166,7 +166,7 @@ Project Link: [https://github.com/chileluk/kd_final_project/issues]
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
+* [MIT Licence](https://choosealicense.com/licenses/mit/)
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
