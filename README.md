@@ -164,9 +164,13 @@ Distributed under the MIT License. See `LICENCE` for more information.
 ## Contact
 
 [Hamoud Khamis](mailto:h.o.khamis@student.vu.nl)
+
 [Chileshe]
+
 [Denise]
+
 [Gabriela]
+
 
 [Repository](https://github.com/chileluk/kd_final_project)
 
