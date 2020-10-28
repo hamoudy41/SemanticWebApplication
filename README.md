@@ -84,7 +84,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 
-* GraphDB
+* GraphDB ot another triplestore
 
 
 ### Installation
