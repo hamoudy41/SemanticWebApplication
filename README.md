@@ -17,14 +17,14 @@
   <p align="center">
     A manual on how to run the Entertainment Finder Web Application.
     <br />
-    <a href="https://github.com/chileluk/kd_final_project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hamoudy41/SemanticWebApplication"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/chileluk/kd_final_project">View Demo</a>
+    <a href="https://github.com/hamoudy41/SemanticWebApplication">View Demo</a>
     ·
-    <a href="https://github.com/chileluk/kd_final_project/issues">Report Bug</a>
+    <a href="https://github.com/hamoudy41/SemanticWebApplication/issues">Report Bug</a>
     ·
-    <a href="https://github.com/chileluk/kd_final_project/issues">Request Feature</a>
+    <a href="https://github.com/hamoudy41/SemanticWebApplication/issues">Request Feature</a>
   </p>
 </p>
 
@@ -90,7 +90,7 @@ This is a step by step guide on how to run this application.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/chileluk/kd_final_project.git
+git clone https://github.com/hamoudy41/SemanticWebApplication.git
 ```
 2. Set up a triplestore. You may choose any triplestore but we recommend GraphDB since that is what we have been using during this project and hence we can offer you support in case of technical difficulties.
 
@@ -127,7 +127,7 @@ start index.html
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/chileluk/kd_final_project/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/hamoudy41/SemanticWebApplication/issues) for a list of proposed features (and known issues).
 
 
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENCE` for more information.
 
 
 
-[Repository](https://github.com/chileluk/kd_final_project)
+[Repository](https://github.com/hamoudy41/SemanticWebApplication)
 
 
 
@@ -185,13 +185,13 @@ Distributed under the MIT License. See `LICENCE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-4-green?logo=appveyor&style=for-the-badge
-[contributors-url]: https://github.com/chileluk/kd_final_project/graphs/contributors
+[contributors-url]: https://github.com/hamoudy41/SemanticWebApplication/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/Forks-0-green?logo=appveyor&style=for-the-badge
-[forks-url]: https://github.com/chileluk/kd_final_project/network/members
+[forks-url]: https://github.com/hamoudy41/SemanticWebApplication/network/members
 [stars-shield]: https://img.shields.io/badge/Stargazers-4-green?logo=appveyor&style=for-the-badge
-[stars-url]: https://github.com/chileluk/kd_final_project/stargazers
+[stars-url]: https://github.com/hamoudy41/SemanticWebApplication/stargazers
 [issues-shield]: https://img.shields.io/badge/Issues-0-green?logo=appveyor&style=for-the-badge
-[issues-url]: https://github.com/chileluk/kd_final_project/issues
+[issues-url]: https://github.com/hamoudy41/SemanticWebApplication/issues
 [license-shield]: https://img.shields.io/badge/Licence-MIT--Licence-green?logo=appveyor&style=for-the-badge
 [license-url]: /LICENSE.txt
 [product-screenshot]: /screenshot.png
