@@ -198,5 +198,5 @@ Distributed under the MIT License. See `LICENCE` for more information.
 [issues-shield]: https://img.shields.io/badge/Issues-0-green?logo=appveyor&style=for-the-badge
 [issues-url]: https://github.com/chileluk/kd_final_project/issues
 [license-shield]: https://img.shields.io/badge/Licence-MIT--Licence-green?logo=appveyor&style=for-the-badge
-[license-url]: https://opensource.org/licenses/MIT
+[license-url]: /LICENSE.txt
 [product-screenshot]: /screenshot.png
