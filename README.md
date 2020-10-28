@@ -15,7 +15,7 @@
   <h1 align="center">Entertainment Finder</h1>
 
   <p align="center">
-    A manual on how to run the Entertainment Finder Web Application.
+    Instructions on how to run the Entertainment Finder Web Application.
     <br />
     <a href="https://github.com/hamoudy41/SemanticWebApplication"><strong>Explore the docs »</strong></a>
     <br />
@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]()
 
 Entertainment Finder is a simple web application that lets you find the entertainment of your choice. In Entertainment finder you can search for Movies, TV series and Books and 
 fine tune your search criteria in order to find a perfect entertainment that match your taste.
@@ -68,7 +68,10 @@ Here are some of the criteria you can apply you fine tune your search for a perf
 These are the main technologies and frameworks used for this project.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [ECMAScript](http://ecma-international.org)
+* [ECMAScript](https://ecma-international.org/memento/tc39.htm)
+* [HTML5](https://html.spec.whatwg.org)
+* [CSS](https://w3.org/TR/CSS2)
+
 
 
 
@@ -94,23 +97,23 @@ git clone https://github.com/hamoudy41/SemanticWebApplication.git
 ```
 2. Set up a triplestore. You may choose any triplestore but we recommend GraphDB since that is what we have been using during this project and hence we can offer you support in case of technical difficulties.
 
-3. Create a repository in GraphDB and call it `ent_ontology`.
+3. Create a repository in GraphDB and call it `finder`.
 
-4. Make this repository as your default repository in GraphDB. After following these steps you do not need to configure repository URL since it will automatically be set as `http://localhost:7200/repositories/ent_ontology` and it will be accessesed by the application. In case if you run into a problem or if your triplestore have a different IP address than your local machine you will need to configure the `localEndpoint` into the exact urlof your repository. This should be done in the following step.
+4. Make this repository as your default repository in GraphDB. After following these steps you do not need to configure repository URL since it will automatically be set as `http://localhost:7200/repositories/finder` and it will be accessesed by the application. In case if you run into a problem or if your triplestore have a different IP address than your local machine you will need to configure the `localEndpoint` into the exact urlof your repository. This should be done in the following step.
 
     
     * Open `index.js`
     * At line 1 where you find
     ```JS
-    const localEndpoint = "http://localhost:7200/repositories/ent_ontology"
+    const localEndpoint = "http://localhost:7200/repositories/finder"
     ```
-    replace `http://localhost:7200/repositories/ent_ontology` with your repository URL.
+    replace `http://localhost:7200/repositories/finder` with your repository URL.
     
-4. Upload the file `ent_ontology.ttl` into your repository you just created.
+4. Upload the file `finder.ttl` into your repository you just created.
   
 5. Navigate to the root folder of the project.
   
-6. Run the following command in the terminal
+6. Run the following command in windows terminal. For other platforms just open the file `index.html`
 ```sh
 start index.html
 ```
