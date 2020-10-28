@@ -123,8 +123,8 @@ start index.html
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-[![Product Name Screen Shot][usage-1-gif]]()
-[![Product Name Screen Shot][usage-2-gif]]()
+![](usage-1.gif)
+![](usage-2.gif)
 
 
 
@@ -200,6 +200,4 @@ Distributed under the MIT License. See `LICENCE` for more information.
 [license-shield]: https://img.shields.io/badge/Licence-MIT--Licence-green?logo=appveyor&style=for-the-badge
 [license-url]: /LICENSE.txt
 [product-screenshot]: /screenshot.png
-[usage-1-gif] /usage-1.gif
-[usage-2-gif] /usage-2.gif
 
