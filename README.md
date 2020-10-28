@@ -123,8 +123,8 @@ start index.html
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-[![Product Usage 1][usage-1-gif]]()
-[![Product Usage 2][usage-2-gif]]()
+[![Product Name Screen Shot][usage-1-gif]]()
+[![Product Name Screen Shot][usage-2-gif]]()
 
 
 
