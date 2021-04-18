@@ -71,6 +71,8 @@ These are the main technologies and frameworks used for this project.
 * [ECMAScript](https://ecma-international.org/memento/tc39.htm)
 * [HTML5](https://html.spec.whatwg.org)
 * [CSS](https://w3.org/TR/CSS2)
+* [GraphDB](https://graphdb.ontotext.com/)
+* [protégé](https://protege.stanford.edu/)
 
 
 
