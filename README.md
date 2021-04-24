@@ -75,7 +75,6 @@ These are the main technologies and frameworks used for this project.
 * [protégé](https://protege.stanford.edu/)
 * [APARQL](https://www.w3.org/TR/rdf-sparql-query/)
 * [RDF](https://www.w3.org/RDF/)
-* [RDF](https://www.w3.org/RDF/)
 * [OWL](https://www.w3.org/OWL/)
 * [XML](https://www.w3.org/XML/)
 
