@@ -54,7 +54,7 @@
 
 The Semantic Web:
 
-The main aim of this project is to build a simple demonstration of a semantic web app, a web application that uses linked data that is machine readable. Traditional world wide web has been a web of documents and the data embedded within it are not machine readable, they must be extracted through the techniques of web scraping. The semantic web is a vision of creating a world wide web that is made of interconnected data and make these data readily available via web search. For more information about the semantic web read [here](https://www.w3.org/standards/semanticweb/) 
+The main aim of this project is to build a simple demonstration of a semantic web app, a web application that uses linked data that is machine readable. Traditional world wide web has been a web of documents and the data embedded within it are not machine readable. The semantic web is a vision of creating a world wide web that is made of interconnected data and make these data readily available via web search. For more information about the semantic web read [here](https://www.w3.org/standards/semanticweb/) 
 
 Entertainment Finder is a simple semantic web application that lets you find the entertainment of your choice. In Entertainment finder you can search for Movies, TV series and Books and 
 fine tune your search criteria in order to find a perfect entertainment that match your taste.
